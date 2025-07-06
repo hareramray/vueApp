@@ -26,7 +26,7 @@ Welcome to the **Vue App Tutorial** repository! This project is designed to help
     npm run dev
     ```
 
-4. Open [http://localhost:8080](http://localhost:8080) to view the app.
+4. Open [http://localhost:5173/](http://localhost:5173/) to view the app.
 
 ## Structure
 
